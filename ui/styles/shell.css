@@ -1,0 +1,9 @@
+:root { color-scheme: dark; font-family: system-ui, sans-serif; background: #18161e; color: #f5efdf; }
+* { box-sizing: border-box; }
+body { margin: 0; padding: 1rem; }
+main { max-width: 44rem; margin: 3rem auto; padding: 1.5rem; border: 1px solid #82768e; border-radius: 0.75rem; }
+h1 { margin-top: 0; overflow-wrap: anywhere; }
+button { font: inherit; min-height: 44px; max-width: 100%; padding: 0.7rem 1rem; background: #e4c78d; color: #18161e; border: 0; border-radius: 0.4rem; }
+button:focus-visible { outline: 3px solid #f5efdf; outline-offset: 4px; }
+output { display: block; margin-top: 1rem; }
+@media (max-width: 600px) { main { margin: 1rem auto; padding: 1rem; } button { width: 100%; } }
