@@ -1,0 +1,13 @@
+.rift-panel { box-sizing:border-box; min-inline-size:0; padding:1rem; color:var(--rift-text);
+  background:var(--rift-panel); border:1px solid var(--rift-boundary); border-radius:.6rem; overflow-wrap:anywhere; }
+.rift-panel h2 { margin-block:0 1rem; }
+.rift-choices:not([hidden]) { display:grid; gap:.5rem; margin-block-start:.75rem; }
+.rift-control { display:inline-flex; gap:.5em; align-items:center; flex-wrap:wrap; max-inline-size:100%;
+  min-block-size:44px; min-inline-size:44px; padding:.55rem .8rem; font:inherit; color:var(--rift-text);
+  background:var(--rift-raised); border:1px solid var(--rift-boundary); border-radius:.3rem; }
+.rift-control:focus-visible { outline:3px solid var(--rift-focus); outline-offset:2px; }
+.rift-control[aria-pressed="true"] { border-inline-start:4px solid var(--rift-action-accent); }
+.rift-marker { width:.8em; height:.8em; background:var(--rift-action-accent); }
+[data-action-role="basic"] .rift-marker { border-radius:50%; }
+[data-action-role="attack"] .rift-marker { clip-path:polygon(50% 0,100% 50%,50% 100%,0 50%); }
+[data-action-role="spell"] .rift-marker { clip-path:polygon(25% 0,75% 0,100% 50%,75% 100%,25% 100%,0 50%); }

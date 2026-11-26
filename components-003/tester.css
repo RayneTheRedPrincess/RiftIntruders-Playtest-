@@ -1,0 +1,5 @@
+:root { font:100%/1.5 system-ui,sans-serif; color:var(--rift-text); background:var(--rift-canvas); }
+* { box-sizing:border-box; } body { margin:0; padding:1rem; } main { max-width:44rem; margin:auto; }
+button,textarea { font:inherit; } main>button { padding:.6rem 1rem; min-height:44px; }
+textarea,iframe { width:100%; } textarea { display:block; min-height:12rem; }
+iframe { display:block; height:25rem; border:0; } #lab { position:fixed; left:-20000px; top:0; }

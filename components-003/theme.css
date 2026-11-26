@@ -1,0 +1,44 @@
+/* Veiled obsidian: authored palette and semantic presentation contract. */
+:root {
+  --rift-canvas: #18161e;
+  --rift-panel: #262331;
+  --rift-raised: #302a3b;
+  --rift-text: #f5efdf;
+  --rift-muted: #c4bdcd;
+  --rift-boundary: #a99ab7;
+  --rift-focus: #f5efdf;
+  --rift-ink: #18161e;
+  --rift-neutral: #d1cbd9;
+  --rift-amber: #e4c78d;
+  --rift-ivory: #f5efdf;
+  --rift-amethyst: #c7b1f0;
+}
+/* Markers and labels must be rendered by later components, not by color alone. */
+[data-action-role="basic"] {
+  --rift-action-accent: var(--rift-neutral);
+  --rift-action-marker: circle;
+}
+[data-action-role="attack"] {
+  --rift-action-accent: var(--rift-amber);
+  --rift-action-marker: diamond;
+}
+[data-action-role="spell"] {
+  --rift-action-accent: var(--rift-amethyst);
+  --rift-action-marker: hexagon;
+}
+[data-action-role="dust"] {
+  --rift-action-accent: var(--rift-ivory);
+  --rift-action-marker: square;
+}
+[data-engraving="amber"] {
+  --rift-engraving-accent: var(--rift-amber);
+  --rift-engraving-marker: triangle;
+}
+[data-engraving="amethyst"] {
+  --rift-engraving-accent: var(--rift-amethyst);
+  --rift-engraving-marker: diamond;
+}
+[data-engraving="ivory"] {
+  --rift-engraving-accent: var(--rift-ivory);
+  --rift-engraving-marker: circle;
+}

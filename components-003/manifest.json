@@ -1,0 +1,20 @@
+{
+  "build": "components-003",
+  "source": "ae9bee99f5c1ad98fc42efd7ff8102ff7c2d03d4",
+  "assets": {
+    "index.html": "52d12edcb756677632d66c7889cb9fc5b24ab111f2f1d7c5164cc63edadea917",
+    "tester.css": "da32f6982591322ab4f545b74b001e3cba1bda59c899cb95472cc29b63c20cde",
+    "tester.js": "980ae565d92b02302fd0760aec9d1d1456962b817c23236139116f26fdb3c26c",
+    "fixture.html": "49bf84f5b66de6d4e8ed1d451219fe5ab48e3d1d7eb5bd252c9f00342360945c",
+    "fixture.js": "055ea808ab55c0279540ddf799b71b9f8a83d4e7db0fb0242bdb7b03e8c372ac",
+    "monitor.js": "dd2b6f5cf8f9b6e84c4d68e83370eb72090df9a33ecbbffd8a98eccc55d076c8",
+    "touch.js": "82bea73e2c94e66039cf87708cbf36b8e0581f0620c8e6f2769a99b01d8e7695",
+    "controls.js": "18d4cf39cfec1df0f2ac5ace0a187ce64e6ed84bb493a37cd735ff5f2af723fa",
+    "controls.css": "4968771070767d779944d38feb8baaad05ac2d88d8be06d1266507220b095120",
+    "theme.css": "03d6909bbf84a6d61dbc958b9dcf56dee3225ba7099a2394b8bff4d5a58a2045",
+    "shell.css": "e63a21f016cb6ab6f140f477f6120bd5f49fd594e5cc5f6612e064fe5f09299d",
+    "main.js": "1051064de6ef025376bbd20b35f898975144948fa4dc1cef723f38fe873e4b9a",
+    "shared/smoke-status.js": "1a556793d4e7301784127ab39409e41dd8109e028fc3675782cd1e4039d13880",
+    "shell.html": "cc1cd28d8d46b0ed0e50b534fbd8a56a879a9b4369284c9fb050ec4844e0f0b1"
+  }
+}
