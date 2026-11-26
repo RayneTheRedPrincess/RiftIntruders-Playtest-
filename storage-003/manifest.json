@@ -1,0 +1,16 @@
+{
+  "build": "storage-003",
+  "assets": {
+    "index.html": "aafde2c0cd494f332ca02c7b707e43a638d769ecfe0f9d976e4fecd6e63f2529",
+    "run.js": "01a5c7141045eb049b7819129ff2adbe095ee88f915ebcc18f43c16ad5ad5d0f",
+    "scenario.js": "01981bd100a15dfae098a6588a44e73a916862c0f058db0a1c8e7978d004d566",
+    "raw.js": "2b3e7d7fe41dc03a75ff0342a96578b770293f02dec67c93e9cf94f05837599f",
+    "persistence/browser/indexed-saves.js": "82d934083fc48c3847694fd7a914d1bdf5855ef29743fb73e5f6a5e9b3645dd8",
+    "persistence/backup.js": "225d6a56e61336e7a108d417c8d018c43fffb595851476ae400be93fccac569d",
+    "data/definitions/contract.js": "5225b394ccfbffbcab699f13ae8df0311f9b579f53f8c1e2c2191a98bfa02fd8",
+    "persistence/save.js": "3e85cfafbe0f82883b3f4b84d3742eac1adf01918ffe748862022218fc25d397",
+    "persistence/profile.js": "4dd8faa33551ad954c4e7288baf521f6602628a5579c62eeae1efc2c120035f7",
+    "data/definitions/build-options.js": "85dc2bb1bdda8e9a9be1c4dcd3226f7658a01ae59b6fb03411df9d4bddd6b962",
+    "persistence/character.js": "f528da17eb6c864ddac2f84a1e9755c5ae8c529defa5452004ea9eef3d5eb01f"
+  }
+}
