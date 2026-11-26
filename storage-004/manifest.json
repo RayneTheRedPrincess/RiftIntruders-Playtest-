@@ -1,0 +1,17 @@
+{
+  "build": "storage-004",
+  "source": "9e662cb832984f89133771381b078f1837264fed",
+  "assets": {
+    "index.html": "e360f4c449ab25dfbb2341d09e81194cda36c2f1dc331cebf3fed100e030202a",
+    "run.js": "723adb02ac5cd564787cea5994ce8a289d11b99b6c0b976b0a0684e3f8fe9c4a",
+    "scenario.js": "0582b9b5803eafa57edb2925474a9f379b4bf52d3e17000271c6daa767d7134b",
+    "raw.js": "2b3e7d7fe41dc03a75ff0342a96578b770293f02dec67c93e9cf94f05837599f",
+    "persistence/backup.js": "b93feb57fb910954fc689e5c93d191238a14cccc8bbb3414ade8ae42c87fe633",
+    "persistence/browser/indexed-saves.js": "ec502cbf2eee5b81c2fb6b94c0f288c1d196e71122eba4a851a54c310bb2d7b0",
+    "persistence/save.js": "3e85cfafbe0f82883b3f4b84d3742eac1adf01918ffe748862022218fc25d397",
+    "persistence/profile.js": "4dd8faa33551ad954c4e7288baf521f6602628a5579c62eeae1efc2c120035f7",
+    "persistence/character.js": "f528da17eb6c864ddac2f84a1e9755c5ae8c529defa5452004ea9eef3d5eb01f",
+    "data/definitions/contract.js": "5225b394ccfbffbcab699f13ae8df0311f9b579f53f8c1e2c2191a98bfa02fd8",
+    "data/definitions/build-options.js": "85dc2bb1bdda8e9a9be1c4dcd3226f7658a01ae59b6fb03411df9d4bddd6b962"
+  }
+}
